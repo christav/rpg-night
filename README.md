@@ -10,11 +10,6 @@
 - World Notes
 - Initial Campaig Notes
 
-## Recaps
+## Sessions
 
 - Session 1
-
-## Maps
-
-- Riverfork (Region)
-- Riverfork (Town)
