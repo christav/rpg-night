@@ -4,11 +4,12 @@
 
 - Luther (Christopher)
 - Zo (Phil)
+- Warack (Chris)
 
 ## Notes
 
 - World Notes
-- Initial Campaig Notes
+- Initial Campaign Notes
 
 ## Recaps
 
